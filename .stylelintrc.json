@@ -1,0 +1,3 @@
+{
+  "extends": "@softalert2/stylelint-config"
+}

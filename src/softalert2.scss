@@ -1,0 +1,10 @@
+// SoftAlert2
+// github.com/softAlert
+
+@import 'scss/theming';
+@import 'scss/animations';
+
+body {
+  @include softalert2-body();
+  @include softalert2-toasts-body();
+}
