@@ -1,3 +1,5 @@
+# Sweetalert2 js-library without ukrainian malwares
+
 <a href="https://github.com/softinvest/softalert2">
   <img src="./assets/swal2-logo.png" width="498" alt="SoftAlert2">
 </a>
